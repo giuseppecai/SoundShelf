@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="4.0">
+  <display-name>SoundShelf</display-name>
+  <servlet>
+    <servlet-name>HomeControl</servlet-name>
+    <servlet-class>control.HomeControl</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+<servlet-mapping>
+    <servlet-name>HomeControl</servlet-name>
+    <url-pattern>/home/*</url-pattern>
+</servlet-mapping>
+
+
+  <welcome-file-list>
+    <welcome-file>home</welcome-file>
+  </welcome-file-list>
+</web-app>

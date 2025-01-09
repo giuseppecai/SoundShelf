@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/home/homeView.jsp=UTF-8
+encoding//WebContent/view/ordiniInterface/catalogoOrdini.jsp=UTF-8
+encoding//WebContent/view/ordiniInterface/checkout.jsp=UTF-8
+encoding//WebContent/view/ordiniInterface/listaOrdiniView.jsp=UTF-8
+encoding//WebContent/view/ordiniInterface/orderConfirmation.jsp=UTF-8
+encoding//WebContent/view/prodottiInterface/catalogoProdottiView.jsp=UTF-8
+encoding//WebContent/view/prodottiInterface/inserisciProdottoForm.jsp=UTF-8
+encoding//WebContent/view/prodottiInterface/modificaProdottoForm.jsp=UTF-8
+encoding//WebContent/view/prodottiInterface/productView.jsp=UTF-8
+encoding//WebContent/view/rimborsiInterface/richiestaRimborsoForm.jsp=UTF-8
+encoding/<project>=UTF-8
